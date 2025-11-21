@@ -60,13 +60,17 @@ Alternative format approaches and medium-specific strategies
 - `research-format-interactive.md` - Interactive fiction (Fighting Fantasy style)
 - `research-format-web-world.md` - Browser-based interactive narrative universe
 
-### ⚙️ **Action & Planning** (5 docs)
+### 🎭 **Research - Subcultures & Worldbuilding** (3 docs)
+Gibson-style subcultural integration for textured worldbuilding
+
+- `research-subcultures.md` - Modern subcultures catalog (crypto-maximalists, techno-occultists, OSINT, etc.)
+- `research-subculture-breaking.md` - Breaking/b-boy culture as embodied resistance archetype
+- `research-subculture-tresor.md` - Berlin underground club culture (Tresor) as narrative hub
+
+### ⚙️ **Action & Planning** (2 docs)
 Next steps and ongoing work
 
-- `next-steps.md` - Initial development options menu
-- `next-steps-02.md` - Additional development paths
-- `next-steps-03.md` - Format-specific development options
-- `next-steps-04.md` - Creative development options (scenes, characters, worldbuilding)
+- `next-steps.md` - Comprehensive development options menu (consolidated from 4 documents)
 - `todo.md` - Active task list and tracking
 
 ---
