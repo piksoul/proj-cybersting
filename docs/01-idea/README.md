@@ -24,13 +24,15 @@ High-level concept, positioning, and strategic direction
 - `product-strategy.md` - Novel & graphic novel development strategy
 - `product-competition.md` - Market analysis and competitive positioning
 
-### 📖 **Narrative Design** (4 docs)
+### 📖 **Narrative Design** (6 docs)
 Story structure, pacing, and thematic integration
 
 - `chapter-tree.md` - Full 30-chapter structural outline (3 acts)
 - `narrative-pacing.md` - ASCII tension/stakes visualization
 - `narrative-guidelines.md` - Guidelines for weaving concepts naturally
 - `narrative-existentialism.md` - Philosophical depth framework
+- `narrative-concept-premise.md` - High-level premise blending Clancy, Bourne, and Gibson
+- `narrative-concept-scene-01.md` - Key scene: "The Keys Don't Work" moment
 
 ### 🔬 **Research - Influences** (4 docs)
 Analysis of inspirational works and styles
@@ -58,12 +60,13 @@ Alternative format approaches and medium-specific strategies
 - `research-format-interactive.md` - Interactive fiction (Fighting Fantasy style)
 - `research-format-web-world.md` - Browser-based interactive narrative universe
 
-### ⚙️ **Action & Planning** (4 docs)
+### ⚙️ **Action & Planning** (5 docs)
 Next steps and ongoing work
 
 - `next-steps.md` - Initial development options menu
 - `next-steps-02.md` - Additional development paths
 - `next-steps-03.md` - Format-specific development options
+- `next-steps-04.md` - Creative development options (scenes, characters, worldbuilding)
 - `todo.md` - Active task list and tracking
 
 ---
@@ -184,6 +187,6 @@ Agents can:
 
 ---
 
-**Total Documents:** 27 files
+**Total Documents:** 30 files
 **Last Updated:** 2025-11-21
 **Phase Status:** Active Development
