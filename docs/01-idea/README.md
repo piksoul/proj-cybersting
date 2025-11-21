@@ -48,11 +48,22 @@ Deeper thematic and conceptual frameworks
 - `research-sotoshi-as-ai.md` - Satoshi-as-AI concept analysis
 - `research-clear-zones.md` - Safety guidelines for avoiding legal/ethical issues
 
-### ⚙️ **Action & Planning** (3 docs)
+### 🎨 **Research - Format Exploration** (6 docs)
+Alternative format approaches and medium-specific strategies
+
+- `research-formats.md` - 12 alternative format options beyond traditional novel
+- `research-serialisation.md` - Serialization vs full novel comparative analysis
+- `research-format-audio-first.md` - Audio drama with Carpenter synth score approach
+- `research-format-experimental.md` - Experimental Spectacle novel hybrid format
+- `research-format-interactive.md` - Interactive fiction (Fighting Fantasy style)
+- `research-format-web-world.md` - Browser-based interactive narrative universe
+
+### ⚙️ **Action & Planning** (4 docs)
 Next steps and ongoing work
 
 - `next-steps.md` - Initial development options menu
 - `next-steps-02.md` - Additional development paths
+- `next-steps-03.md` - Format-specific development options
 - `todo.md` - Active task list and tracking
 
 ---
@@ -131,9 +142,9 @@ docs/
 Based on YAML frontmatter `type` field:
 
 - **Creative** (1) - Creative briefs and concept docs
-- **Planning** (7) - Structural and strategic planning
+- **Planning** (8) - Structural and strategic planning
 - **Reference** (3) - Guidelines and frameworks
-- **Research** (8) - Analysis and research materials
+- **Research** (14) - Analysis and research materials
 - **Strategy** (2) - Market and product strategy
 - **Index** (1) - Navigation and organization
 
@@ -173,6 +184,6 @@ Agents can:
 
 ---
 
-**Total Documents:** 20 files
+**Total Documents:** 27 files
 **Last Updated:** 2025-11-21
 **Phase Status:** Active Development
