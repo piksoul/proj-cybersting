@@ -1,4 +1,15 @@
-NARRATIVE GUIDELINE FOR WEAVING CONCEPTS INTO THE STORY
+---
+title: Narrative Guidelines - Concept Integration
+type: Reference
+project: The Satoshi Protocol
+phase: 01-idea
+status: Complete
+created: 2025-11-21
+updated: 2025-11-21
+description: Guidelines for naturally weaving complex concepts (monetary theory, cryptography, decentralization) into the narrative without info-dumping.
+---
+
+# NARRATIVE GUIDELINE FOR WEAVING CONCEPTS INTO THE STORY
 (Updated with new thematic sprinkle-in topics)
 Below are the core “big ideas” and exactly where & how to integrate them naturally into the narrative so it never becomes an info-dump.
 A. Monetary Game Theory (Gold vs BTC vs USD)
