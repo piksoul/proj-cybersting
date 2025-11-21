@@ -1,4 +1,15 @@
-PACING GRAPH (ASCII Narrative Crescendo Map)
+---
+title: Narrative Pacing Graph
+type: Planning
+project: The Satoshi Protocol
+phase: 01-idea
+status: Complete
+created: 2025-11-21
+updated: 2025-11-21
+description: Visual ASCII map of tension and stakes across the three-act structure showing thriller momentum peaks and valleys.
+---
+
+# PACING GRAPH (ASCII Narrative Crescendo Map)
 This is a classic thriller pacing curve, adjusted for your three-act structure and the crypto–geopolitical tension.
  TENSION / STAKES
  ^
