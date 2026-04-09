@@ -1,0 +1,45 @@
+{
+  "title": "The Satoshi Protocol — Chapter 1: The Anomaly",
+  "schema_type": "narrative",
+  "description": "Opening chapter: Elias detects impossible patterns in early Bitcoin block timestamps",
+  "common_context": "Protagonist: Elias Reed, early 30s, former NSA cryptographer turned academic. Precise, guarded, dry wit under pressure. Thinks in systems — sees patterns before people.\n\nWorld: Near-future. Nation-states racing to control digital currency infrastructure. Corporate server farms are physical fortresses. Surveillance is ambient — sensors, drones, digital shadows. Street level clings to analogue.\n\nTone: Tight third person, present tense. Noir sensibility — observation over exposition. Short paragraphs, sensory-led. Clancy stakes, Bourne pacing, Gibson texture.\n\nCore rule: Never stop plot to explain. Embed ideas in action, dialogue, and subtext. Let the story teach by osmosis.",
+  "prompts": [
+    {
+      "title": "Ch1 Scene 1 — The Numbers Don't Sleep",
+      "generator": "scene_full",
+      "status": "not_started",
+      "slots": {
+        "scene_context": "POV: Elias, tight third.\nCast: Elias (alone).\nPacing: quiet, methodical, curiosity building.\nIntegrate: block timing as forensic artefact — timestamps as fingerprints, not abstractions.\n\nLate night in Elias's university lab. He's running statistical analysis on early Bitcoin block timestamps as part of an academic paper. Routine work — until the numbers stop being routine.",
+        "setting": "University cryptography lab, after hours. Fluorescent strip lights, one blown. Three monitors, terminal windows, empty coffee cups. Campus silent outside. The hum of a building that knows it should be empty.",
+        "character_action": "Elias cycles through block header data, tagging timing outliers. Mechanical, practised. Then he stops scrolling. Leans forward. Runs the query again.",
+        "internal": "He's seen statistical noise before. This isn't noise. The intervals are too regular to be mining variance, too irregular to be clock drift. Something shaped these timestamps deliberately.",
+        "tension": "A pattern that shouldn't exist in a decentralised system. If it's real, someone was inside the network before anyone thought the network existed.",
+        "sensory": "The click of his trackpad in the silence. Blue-white monitor glow on his face. A radiator ticking. The particular stillness of a building at 2am — the kind that makes you aware of your own breathing."
+      }
+    },
+    {
+      "title": "Ch1 Scene 2 — Verification",
+      "generator": "scene_medium",
+      "status": "not_started",
+      "slots": {
+        "scene_context": "POV: Elias.\nCast: Elias (alone).\nPacing: accelerating, controlled urgency.\nIntegrate: mining and proof-of-work as physical process — computation as labour, not magic.\n\nElias cross-references the anomaly against known mining pool signatures, hardware capabilities of the era, and network propagation delays. Systematically eliminates innocent explanations. Each one falls away.",
+        "character_action": "He pulls archived datasets, overlays timing distributions, writes a quick script to isolate the anomalous blocks. Works faster now. Hands steady but mind racing.",
+        "internal": "His training kicks in — the NSA drilled verification protocols into muscle memory. Trust nothing. Confirm everything. But the more he confirms, the worse it gets. These blocks were mined by something that understood the network's topology before the topology existed.",
+        "tension": "The anomaly isn't an artefact. It's a signature. And it predates every known early miner."
+      }
+    },
+    {
+      "title": "Ch1 Scene 3 — The Weight of Knowing",
+      "generator": "scene_medium",
+      "status": "not_started",
+      "slots": {
+        "scene_context": "POV: Elias.\nCast: Elias (alone). Background: news ticker on muted screen.\nPacing: slow, heavy, contemplative.\nIntegrate: monetary game theory as background texture — gold/BTC tension on the news, not explained, just present.\n\nElias steps back from the screen. He knows what he's found. The question is what to do with it. A muted TV in the corner shows financial news — gold prices, central bank rhetoric, the usual background hum of a world arguing about money.",
+        "setting": "Same lab, wider shot. The muted TV flickers — a news anchor gesturing at commodity charts. Elias's phone on the desk, dark. The window shows a campus courtyard, empty, orange sodium lights.",
+        "internal": "He left the NSA to get away from secrets that had owners. Academic research was supposed to be clean — publish, cite, move on. But this isn't publishable. This is the kind of finding that makes people disappear, or worse, makes them useful to people who make other people disappear.",
+        "tension": "He can close the laptop and pretend he never ran the query. Or he can pull the thread. Both options have consequences he can't yet see.",
+        "sensory": "The news ticker scrolling silently. His own reflection ghosted in the dark window. The weight of the building's silence pressing in.",
+        "transition": "He saves the dataset to an encrypted partition. Then saves it again to a second drive he keeps in his jacket. Old habits. He powers down the monitors one by one. Walks out. Doesn't look back at the screen."
+      }
+    }
+  ]
+}

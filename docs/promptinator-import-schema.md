@@ -210,7 +210,7 @@ Common context is the **project DNA** — the handful of rules that apply to eve
 {
   "title": "Cybersting — Chapter 1",
   "schema_type": "narrative",
-  "description": "Opening chapter: Jess discovers the breach",
+  "description": "Opening chapter: the key ceremony fails",
   "common_context": "Protagonist: Elias, early 30s, cryptographer turned reluctant activist. Precise, guarded, dry wit under pressure. Thinks in systems.\n\nWorld: Near-future. Nation-states racing to control digital currency infrastructure. Corporate server farms are physical fortresses. Surveillance is ambient.\n\nTone: Tight third person, present tense. Noir sensibility — observation over exposition. Short paragraphs, sensory detail.\n\nCore rule: Never stop plot to explain. Embed ideas in action, dialogue, and subtext.",
   "prompts": [
     {
