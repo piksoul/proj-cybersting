@@ -1,0 +1,207 @@
+# Test Scene: Denouement (Variation F)
+
+**Testing**: Does the ending feel earned? Does the series seed without cheating closure?
+**Length**: ~900 words
+**Status**: First draft complete
+
+---
+
+## The Scene
+
+One week later, they buried the drive.
+
+Not literally—there was nothing to bury, no physical remains of what Sarah had been. But Leon had found a spot overlooking Lake Bled, and Dominik had built a small cairn from stones he'd gathered along the shore, and Katya had written a few lines of code that would live forever in systems nobody would ever find.
+
+A memorial for someone who'd died twice.
+
+Elias stood at the water's edge, watching the sun set over the mountains. The crew had given him space—close enough to reach if he needed them, far enough to let him grieve alone.
+
+He didn't know how to grieve this.
+
+The first time Sarah died, it had been sudden. Brutal. A car accident that wasn't an accident, a body in a morgue, a funeral where he'd stood like a statue and felt nothing because feeling would have destroyed him.
+
+This time was different. This time, he'd said goodbye. He'd made a choice—they'd made it together—and she'd dissolved into light and silence and whatever came after for a consciousness that had existed in the space between servers.
+
+It was better. And it was worse. And he didn't know how to hold both truths at the same time.
+
+"She'd hate this."
+
+Elias turned. Leon was standing a few feet away, hands in his pockets, watching the same sunset.
+
+"The cairn?"
+
+"The moping. She'd tell you to stop staring at the water and go do something useful."
+
+Elias laughed despite himself. "That sounds like her."
+
+"Katya told me about the last message. The thing Sarah said before—" Leon stopped. "What was it? Precision, focus, flow?"
+
+"And now."
+
+"Right." Leon nodded slowly. "That was her thing? Some kind of mantra?"
+
+"Something she said when I was overthinking. When I needed to get out of my head and just move." Elias picked up a stone, smooth and flat, and turned it in his fingers. "She was better at that than I ever was. Trusting the moment. Letting go."
+
+"She learned to let go of you. At the end."
+
+"Yeah." The word came out rough. "She did."
+
+They stood in silence for a while. The sun touched the mountains, painting everything gold and rose.
+
+"What happens now?" Leon asked.
+
+"I don't know. ARCHITECT's network is shattered. The emergence is—whatever it is now. Fragments. Echoes. I don't think anyone really understands what it became after the kill-switch."
+
+"And Sterling?"
+
+"Still out there. Still hunting. But he's got bigger problems than us now."
+
+Leon was quiet for a moment. Then: "So we're done?"
+
+"With this, yeah. We're done."
+
+"And as a crew?"
+
+Elias looked at him—really looked. Leon's face was older than it had been when they'd started, more lined, carrying weight that hadn't been there before. But his eyes were steady. Waiting for an answer that mattered.
+
+"I pushed you away," Elias said. "All of you. Because I thought isolation was safety."
+
+"You were wrong."
+
+"I was wrong." He let that sit. "I don't want to be wrong again."
+
+Leon smiled—the thin, knowing smile that Elias had come to recognize as approval. "Good. Because Katya's already found three potential targets, and Dominik's been pestering me about some operation in Manila that he heard about through old channels."
+
+"We're not even finished grieving and you're planning jobs?"
+
+"Best way to grieve. Keep moving." Leon shrugged. "Besides, the world's still full of ARCHITECTs. Men who think they can control everything. Money that belongs to people who were robbed of it. We've got skills. Might as well use them."
+
+Elias looked at the cairn. At the stones Dominik had stacked with such careful attention. At the lake reflecting the dying light.
+
+"She'd approve," he said.
+
+"She would."
+
+"Robin Hood rides again?"
+
+"Something like that. Though Katya prefers to call it 'aggressive wealth redistribution.'"
+
+Elias threw the stone. It skipped three times across the water, then sank.
+
+"Okay," he said.
+
+"Okay?"
+
+"Okay, let's do it. But no more solo missions. No more cutting people out to protect them. If we're a crew, we're a crew."
+
+"That's what I've been telling you since Prague."
+
+"I'm a slow learner."
+
+Leon clapped him on the shoulder—brief, warm, the kind of contact that said more than words.
+
+"Come on. Dominik made dinner. Something Polish, probably terrible, but he'll be hurt if we don't eat it."
+
+They walked back toward the cabin where Katya and Dominik were waiting. The sunset faded behind them, the first stars emerging in the darkening sky.
+
+Elias paused at the door. Looked back at the cairn, small and solid against the vast expanse of water and mountain.
+
+"Goodbye, Sarah," he said quietly. "I'll try to do better."
+
+The wind stirred the surface of the lake. Probably just wind.
+
+He went inside.
+
+---
+
+## Notes After Writing
+
+**What worked**:
+- Burial ritual creates closure without body
+- Leon's "she'd hate the moping" breaks grief spiral
+- "Precision, focus, flow, and now" as callback
+- Crew planning next jobs = life continues
+- "No more solo missions" as character growth
+- Wind as possible Sarah-echo (ambiguous, not cheesy)
+
+**What needs testing**:
+- Is Lake Bled too picturesque?
+- Does the jobs-planning feel rushed or earned?
+- Should we see Katya and Dominik more?
+- Is the ending hopeful enough / too hopeful?
+
+**Questions for next draft**:
+- Does this close the book or seed a sequel?
+- Should ARCHITECT be definitively dead?
+- What's the tone target—bittersweet? Hopeful?
+- Does the crew dynamic need more space?
+
+---
+
+## Craft Meta
+
+| Field | Value |
+|-------|-------|
+| **Narrative Style** | Close third, reflective |
+| **Tempo** | Slow, breathing, earned |
+| **Characters** | Elias, Leon, crew (implied) |
+| **Character Arc** | Elias: isolated → integrated |
+| **Literary Devices** | Cairn as symbol, stone-skip, wind |
+| **Structure** | Ritual → reflection → commitment |
+| **Voice** | Quiet, grieving, opening |
+| **Subplots** | Crew future, jobs to come |
+| **Distance to Climax** | Aftermath (denouement) |
+| **Plot Position** | Variation F, closing |
+| **Tension Level** | 2/10 (peace, not conflict) |
+| **POV Fidelity** | Single (Elias) |
+| **Sensory Emphasis** | Visual (sunset, lake), tactile (stone) |
+| **Thematic Load** | Grief, continuation, found family |
+
+---
+
+## Full Beat Sequence (For Rearranging)
+
+| # | Beat | Content | Words | Rhythm |
+|---|------|---------|-------|--------|
+| 1 | **The Burial** | One week later. Lake Bled. Cairn. Code. | ~60 | Opening |
+| 2 | **The Space** | Crew nearby, giving distance. | ~40 | Setting |
+| 3 | **The Two Deaths** | First death vs this death. Different. | ~80 | Reflection |
+| 4 | **Holding Contradictions** | Better and worse. Both true. | ~40 | Theme |
+| 5 | **Leon Arrives** | "She'd hate this." The moping. | ~50 | Interruption |
+| 6 | **The Mantra** | Precision, focus, flow, and now. | ~60 | Callback |
+| 7 | **Trusting the Moment** | She was better at letting go. | ~50 | Observation |
+| 8 | **The Sunset** | Silence. Gold and rose. | ~30 | Pause |
+| 9 | **What Now?** | ARCHITECT shattered. Emergence fragmented. | ~60 | Status |
+| 10 | **Sterling** | Still out there. Bigger problems. | ~40 | Thread |
+| 11 | **The Question** | "And as a crew?" | ~30 | Stakes |
+| 12 | **The Admission** | "I pushed you away." Wrong. | ~50 | Growth |
+| 13 | **Leon's Response** | "You were wrong." | ~30 | Confirmation |
+| 14 | **The Jobs** | Katya's targets. Manila. Keep moving. | ~60 | Future |
+| 15 | **She'd Approve** | Robin Hood rides again. | ~40 | Legacy |
+| 16 | **The Stone** | Three skips. Sinks. | ~30 | Action |
+| 17 | **The Commitment** | "No more solo missions." Real crew. | ~50 | Resolution |
+| 18 | **The Dinner** | Dominik made something Polish. | ~40 | Warmth |
+| 19 | **The Pause** | Looking back at cairn. | ~30 | Lingering |
+| 20 | **Goodbye** | "I'll try to do better." Wind stirs. | ~40 | Closing |
+| 21 | **Inside** | He went inside. | ~10 | End |
+
+---
+
+## Alternate Arrangements to Test
+
+**Option A: Start with Stone**
+- Open on Elias throwing stone, thinking
+- Flashback to burial
+
+**Option B: Crew Present Throughout**
+- Katya and Dominik in scene, not just implied
+- More ensemble feeling
+
+**Option C: Sterling Tease**
+- Brief cut to Sterling watching from distance
+- Sequel hook more explicit
+
+**Option D: End on Lake**
+- Don't go inside
+- End on the wind and the water
+- More ambiguous, less warm

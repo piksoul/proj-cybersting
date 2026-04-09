@@ -1,0 +1,201 @@
+# Test Scene: Sterling Chase (Variation F)
+
+**Testing**: Does Sterling work as institutional threat? Does solo Elias feel capable but pressured?
+**Length**: ~1,000 words
+**Status**: First draft complete
+
+---
+
+## The Scene
+
+The Belgrade train station was a cathedral of noise—announcements in three languages, the screech of brakes, a thousand footsteps echoing off marble floors. Elias moved through it like water through rocks, shoulders angled, pace steady, eyes cataloging everything.
+
+Platform 4. Train to Sofia. Twelve minutes.
+
+He'd bought the ticket in cash from a machine on the far side of the station, using a face that wasn't his and a name that had never existed. Clean tradecraft. The kind of thing that worked against local police, border guards, opportunistic thieves.
+
+It didn't work against Sterling.
+
+He felt the shift before he saw it—a pattern in the crowd, the way bodies moved around a fixed point instead of through it. Someone was standing still in a river of motion, and that stillness had weight.
+
+Elias didn't turn around. Didn't speed up. Just adjusted his angle by three degrees and kept walking.
+
+*How did he find me?*
+
+The ticket machine. Had to be. He'd been careful, but careful wasn't enough when your opponent had access to every camera in Europe, every database, every algorithmic eye that tracked the flow of human movement across borders.
+
+Sterling didn't need to find Elias. He just needed to predict where Elias would go, and wait.
+
+"Mr. Vance."
+
+The voice came from his left—casual, almost friendly. Elias kept walking.
+
+"That's the name on your ticket, isn't it? Though I suspect your mother called you something else."
+
+Platform 3. Wrong platform. He could cut through, come at 4 from the other side—
+
+"There are four of my people between you and that train. Two more at the south exit. One at the north, though she's primarily there to document rather than detain."
+
+Elias stopped.
+
+He turned, slowly, and got his first real look at Sterling.
+
+The man was older than he'd expected—mid-fifties, silver at the temples, the kind of face that looked like it had been assembled from spare parts of more handsome men. Not ugly, exactly. Just... pragmatic. A face designed for function, not form.
+
+"Marcus Sterling," the man said, not offering a hand. "Though you knew that."
+
+"I know a lot of things."
+
+"So I've heard. Pattern recognition. Predictive modeling. The ability to see connections that most people miss." Sterling smiled—thin, professional. "It's impressive. It's also why we want you."
+
+"Who's 'we'?"
+
+"Does it matter? You've already run the scenarios. Government agency, private contractor, rogue element—the specifics change, the outcome doesn't. You come with me, voluntarily or otherwise, and we have a conversation about your future."
+
+Elias's mind was moving faster than his mouth. Four between him and the train. Two at south. One at north. Sterling here, which meant he wasn't covering any exit—he was the conversation, not the cage.
+
+Eight total. He could see three of them now, positioned with professional spacing. The others were in the crowd, invisible until they weren't.
+
+"The outcome changes quite a bit depending on the specifics," Elias said. "Government means lawyers. Private means negotiation. Rogue means I fight."
+
+"And which do you think I am?"
+
+"I think you're the kind of man who covers all three."
+
+Sterling's smile widened slightly. "Pattern recognition. See, this is why we want you."
+
+The announcement crackled overhead—Sofia train, platform 4, now boarding. Elias had eight minutes. Maybe less.
+
+"Let me tell you what happens next," Sterling said. "You're calculating escape routes. I know you are—it's what you do. You're thinking about the maintenance corridor behind platform 6, or the service tunnel that runs under the main concourse, or the possibility that you could simply disappear into the crowd and resurface somewhere I'm not."
+
+"You've done your homework."
+
+"I've done nothing but homework since you appeared on my radar three weeks ago. And here's what I've learned: you're good at running. Maybe the best I've ever seen. But running only works when you have somewhere to run *to*. You don't. Not anymore."
+
+Elias felt the truth of it settle in his chest. His network was burned. His contacts were scattered or dead. The heist crew—Leon, Katya, Dominik—he'd cut them loose precisely to keep them safe from men like Sterling.
+
+He was alone. By choice. And that choice was starting to feel like a cage.
+
+"What do you want?" he asked.
+
+"A conversation. Ninety minutes. If you don't like what you hear, you walk away. My word."
+
+"Your word isn't worth much."
+
+"No. But my self-interest is. You're no use to me broken or imprisoned. I need you functional, motivated, and—ideally—curious. That means treating you like an asset, not a prisoner."
+
+The crowd flowed around them. The train was boarding. Six minutes.
+
+Elias saw the pattern again—not in the crowd this time, but in Sterling himself. The way he stood, the positioning of his hands, the micro-expressions that flickered across that assembled face. The man was tense. Not scared, but... invested. This mattered to him.
+
+*Why?*
+
+"Ninety minutes," Elias said. "Then I walk."
+
+"Then you walk."
+
+"And your people stand down."
+
+Sterling raised a hand—a subtle gesture, almost invisible. The three visible agents relaxed. Somewhere in the crowd, Elias felt the pressure ease.
+
+"They're standing down."
+
+Elias didn't believe him. Not entirely. But he'd run out of room to run, and the only way forward was through.
+
+"Where are we having this conversation?"
+
+Sterling turned, gesturing toward a café at the edge of the station. "Somewhere with good coffee. You're going to want caffeine for what I'm about to tell you."
+
+They walked together—not as prisoner and captor, but as something stranger. Two men who knew they were enemies, choosing to pretend otherwise.
+
+For now.
+
+---
+
+## Notes After Writing
+
+**What worked**:
+- Sterling's competence established through prediction, not force
+- "Assembled from spare parts" gives him visual distinctiveness
+- Elias's isolation feels earned (he cut the crew loose)
+- The negotiation dynamic—neither has full control
+- "Running only works when you have somewhere to run *to*"
+
+**What needs testing**:
+- Is Sterling threatening enough, or too civilized?
+- Does the station setting feel specific enough?
+- Should there be more physical action, or is verbal tension enough?
+- Is Elias's choice to stay believable?
+
+**Questions for next draft**:
+- What's the "conversation" about? (ARCHITECT intel? Emergence?)
+- Does Sterling stay antagonist or become reluctant ally?
+- How does this scene connect to the larger F-variation arc?
+- Should we see Sterling's POV at any point?
+
+---
+
+## Craft Meta
+
+| Field | Value |
+|-------|-------|
+| **Narrative Style** | Close third, strategic mind |
+| **Tempo** | Cat-and-mouse, verbal tension |
+| **Characters** | Elias, Sterling |
+| **Character Arc** | Elias: running → cornered → choosing |
+| **Literary Devices** | Pattern-as-POV, countdown (train) |
+| **Structure** | Pursuit → confrontation → negotiation |
+| **Voice** | Calculating, observational |
+| **Subplots** | Crew sacrifice (cut loose) |
+| **Distance to Climax** | Mid-book (new alliance forming) |
+| **Plot Position** | Variation F, Act 2 |
+| **Tension Level** | 7/10 (pressure, not violence) |
+| **POV Fidelity** | Single (Elias) |
+| **Sensory Emphasis** | Visual (crowd patterns), auditory |
+| **Thematic Load** | Solo limits, forced collaboration |
+
+---
+
+## Full Beat Sequence (For Rearranging)
+
+| # | Beat | Content | Words | Rhythm |
+|---|------|---------|-------|--------|
+| 1 | **Opening — Station** | Belgrade cathedral of noise. Elias moving clean. | ~60 | Setting |
+| 2 | **The Target** | Platform 4. Train to Sofia. Twelve minutes. | ~40 | Goal |
+| 3 | **Tradecraft** | Cash ticket, false face, clean ops. | ~50 | Competence |
+| 4 | **The Shift** | Pattern in crowd. Someone standing still. | ~50 | Tension |
+| 5 | **The Voice** | "Mr. Vance." Sterling speaks. | ~40 | Contact |
+| 6 | **The Trap** | Four agents. Two exits. Documented. | ~60 | Stakes |
+| 7 | **First Look** | Sterling described. Assembled face. Pragmatic. | ~70 | Character |
+| 8 | **The Pitch** | "We want you." Pattern recognition. | ~60 | Offer |
+| 9 | **The Question** | "Who's 'we'?" | ~50 | Resistance |
+| 10 | **The Calculus** | Elias counts agents, maps exits. | ~60 | Strategy |
+| 11 | **The Categories** | Government/private/rogue—different outcomes. | ~50 | Analysis |
+| 12 | **Sterling's Homework** | He's predicted Elias's escape routes. | ~80 | Competence |
+| 13 | **The Truth** | Running needs somewhere to run *to*. | ~60 | Theme |
+| 14 | **The Isolation** | Network burned. Crew cut loose. Alone. | ~50 | Cost |
+| 15 | **The Offer** | 90 minutes. Walk away after. His word. | ~60 | Deal |
+| 16 | **The Tell** | Sterling is tense. This matters to him. | ~50 | Observation |
+| 17 | **The Agreement** | "Ninety minutes. Then I walk." | ~40 | Choice |
+| 18 | **Stand Down** | Agents relax. Pressure eases. | ~40 | Shift |
+| 19 | **The Walk** | Together toward café. Enemies pretending. | ~60 | Closing |
+
+---
+
+## Alternate Arrangements to Test
+
+**Option A: Cold Open on "Mr. Vance"**
+- Cut beats 1-4, start at confrontation
+- Faster entry, lose station atmosphere
+
+**Option B: Add Physical Beat**
+- Insert chase/scuffle between beats 5-6
+- Elias tries to run, gets blocked, then talks
+
+**Option C: Sterling POV Insert**
+- Brief cut to Sterling's view before contact
+- Shows his preparation, raises his competence
+
+**Option D: Delay Sterling's Face**
+- Don't describe him until beat 15
+- Build mystery before reveal
