@@ -13,7 +13,10 @@
         "setting": "Industrial training space in Berlin. Concrete floor, high ceilings, graffiti on exposed brick. Portable speaker pushing beats. Yellow work lights. The smell of chalk and sweat. Cold outside, warm inside.",
         "character_action": "Elias moves through a sequence — controlled, fluid, precise. Years of practice compressed into economy of motion. Leon watches from the edge, nods once. Katya trying something new, failing, laughing. Dominik drilling the same move with mechanical patience.",
         "internal": "In the circle, the pattern-sight goes quiet. No systems to decode, no threats to parse. Just the body and the beat and the concrete under his hands. He'd built something here. Small. His. The question he didn't ask was whether he deserved it.",
-        "sensory": "The bass through the floor. Chalk dust in the air catching the light. The shock of cold concrete against his palms. Katya's laughter echoing off the ceiling. The particular warmth of a space made by people who chose to be there."
+        "dialogue": "Katya, mid-attempt at a new freeze: 'You're watching again. Either join or coach — standing there is creepy.' Elias: 'Your left arm is doing all the work. Let the hip carry it.' She tries. Nails it. Doesn't thank him.",
+        "tension": "No external threat. The tension is internal and quiet — this peace is built on avoidance. He's a man hiding in plain sight, and every easy evening is borrowed time he hasn't earned.",
+        "sensory": "The bass through the floor. Chalk dust in the air catching the light. The shock of cold concrete against his palms. Katya's laughter echoing off the ceiling. The particular warmth of a space made by people who chose to be there.",
+        "transition": "The session winds down. People peel off in twos and threes. Elias stays. Leon stays. The others know this is how it goes — the two of them are always last."
       }
     },
     {
@@ -22,9 +25,13 @@
       "status": "not_started",
       "slots": {
         "scene_context": "POV: Elias.\nCast: Elias, Leon.\nPacing: quiet, easy, undercurrent of something unspoken.\n\nPost-session. The space emptying. Elias and Leon lingering — the ritual of winding down. Establish Leon's mentorship and Elias's guardedness. Seed that Elias has a past he doesn't discuss, and Leon doesn't ask.",
+        "setting": "Same training space, emptied out. Overhead lights half-killed — just the strip nearest the door. Mats stacked against the wall. Two water bottles on the floor between them. The space feels bigger without the crew in it.",
+        "character_action": "Leon stretches in silence — slow, deliberate, the routine of a body that's done this for decades. Elias sits against the wall, legs extended, rolling his wrists. Neither is in a hurry to leave.",
         "dialogue": "Leon says little. What he says lands. A comment about flow, about not forcing patterns. Elias responds with a half-joke that deflects. Leon lets the deflection stand. The unspoken rule: you show up, you train, you earn your place. No credentials. No clearances. No past.",
-        "internal": "Leon never asks where Elias came from. That's the rule. Elias likes the rule. He wonders sometimes if Leon has a rule like that for his own reasons — twenty years in Berlin and nobody knows what happened in those years between Marseille and here.",
-        "sensory": "Speaker off now. The building settling. Their voices in the empty space. Street noise filtering through a cracked window — tram, distant bass from a club, someone's bicycle bell."
+        "internal": "Leon never asked where Elias came from. That was the rule. Elias liked the rule. He wondered sometimes if Leon had a rule like that for his own reasons — twenty years in Berlin and nobody knew what happened in those years between Marseille and here.",
+        "tension": "The unspoken question beneath the easy silence: how long can this last? Leon sees more than he says. Elias knows this. The mutual privacy is an act of generosity, not ignorance — and generosity has limits.",
+        "sensory": "Speaker off now. The building settling. Their voices in the empty space. Street noise filtering through a cracked window — tram, distant bass from a club, someone's bicycle bell.",
+        "transition": "Leon stands. 'Thursday.' Not a question. Elias nods. Leon pulls on his jacket and walks out without looking back. The door echoes. Elias sits in the quiet for another minute. Then follows."
       }
     },
     {
@@ -35,7 +42,9 @@
         "scene_context": "POV: Elias.\nCast: Elias (alone). Background: Berlin at night.\nPacing: contemplative, edge of melancholy. The peace is real but fragile.\nIntegrate: surveillance as ambient weather — not dystopian, just present. Digital shadows.\n\nElias walks home through Berlin. Establish his daily life, his neighbourhood, his careful ordinariness. Seed the surveillance texture of the world. End on a note that this peace is something he built on top of something he buried.",
         "setting": "Berlin streets at night. Sodium lights on wet pavement. A Turkish corner shop still open. Graffiti layered deep on every surface. The distant glow of a club. Security cameras on every third building — he notices them without meaning to.",
         "character_action": "He walks a route he knows. Checks reflections in window glass — old habit, not conscious. Buys a coffee from the corner shop. Makes small talk in passable German. A normal man doing normal things.",
+        "dialogue": "The corner shop owner: 'Late again, my friend. One day you tell me what you do at night.' Elias: 'I dance.' The owner laughs. Elias smiles. It's not a lie.",
         "internal": "Three years and he still checked reflections. Window glass, phone screens, the chrome on coffee machines. Looking for the face behind him that wasn't there yet. He used to think in systems. Now he thought in movements. Cleaner. Simpler. Nothing to betray you but your own muscles.",
+        "tension": "The cameras he clocks without trying. The phone he hasn't checked. The life he left behind that left marks he can feel but can't name. Peace built on a burial — and burials only hold if nobody digs.",
         "sensory": "Wet cobblestones underfoot. The hiss of a tram passing. Neon from a late-night kebab shop. Cold air on his face after the warm training space. His own breath visible.",
         "transition": "He reached his building. Climbed the stairs. Didn't check his phone — hadn't in weeks. The phone sat on the kitchen counter, dark, patient, waiting for something he'd promised himself would never come."
       }
