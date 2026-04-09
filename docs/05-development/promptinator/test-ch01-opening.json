@@ -1,0 +1,44 @@
+{
+  "title": "The Satoshi Protocol — Act 1: Chapter 1",
+  "schema_type": "narrative",
+  "description": "Opening chapter: Elias in Berlin, rebuilt through breaking, before the world pulls him back in",
+  "common_context": "Protagonist: Elias Reed, 36-38. Former NSA cryptographer, burned out and hiding in Berlin for 2-3 years. Rebuilt through breaking/parkour. Lean, fluid, precise movement. Guarded, perceptive, dry wit. Pattern-sight dormant. Avoidance is his flaw — runs from what he fears.\n\nWorld: Near-future (~10 years ahead). Surveillance ambient. Corporate infrastructure fortress-like. Street level clings to analogue. Cities at night: neon, sodium, LED, cold air.\n\nCrew: Leon Amari (45, French-Algerian, mentor, flow philosophy), Katya Markovic (youth, resilience), Dominik Voss (precision, fixer).\n\nTone: Third person limited, past tense. Close distance. le Carre intimacy + Gibson texture. Technical precision, controlled emotion. The walls are part of the architecture.\n\nCore rule: Never stop plot to explain. Embed ideas in action, dialogue, and subtext.",
+  "prompts": [
+    {
+      "title": "Ch1 Scene 1 — The Circle",
+      "generator": "scene_full",
+      "status": "not_started",
+      "slots": {
+        "scene_context": "POV: Elias, third limited, close.\nCast: Elias, Leon, Katya, Dominik, other breakers (background).\nPacing: warm, rhythmic, grounded. The calm before everything.\nIntegrate: breaking as flow state — the body as the one system you can trust. Personal proof of work.\n\nEvening session at the crew's Berlin training space. Elias in the circle, moving. This is who he's become. Establish the found family, the rebuilt life, the peace that may or may not be real.",
+        "setting": "Industrial training space in Berlin. Concrete floor, high ceilings, graffiti on exposed brick. Portable speaker pushing beats. Yellow work lights. The smell of chalk and sweat. Cold outside, warm inside.",
+        "character_action": "Elias moves through a sequence — controlled, fluid, precise. Years of practice compressed into economy of motion. Leon watches from the edge, nods once. Katya trying something new, failing, laughing. Dominik drilling the same move with mechanical patience.",
+        "internal": "In the circle, the pattern-sight goes quiet. No systems to decode, no threats to parse. Just the body and the beat and the concrete under his hands. He'd built something here. Small. His. The question he didn't ask was whether he deserved it.",
+        "sensory": "The bass through the floor. Chalk dust in the air catching the light. The shock of cold concrete against his palms. Katya's laughter echoing off the ceiling. The particular warmth of a space made by people who chose to be there."
+      }
+    },
+    {
+      "title": "Ch1 Scene 2 — After Hours",
+      "generator": "scene_medium",
+      "status": "not_started",
+      "slots": {
+        "scene_context": "POV: Elias.\nCast: Elias, Leon.\nPacing: quiet, easy, undercurrent of something unspoken.\n\nPost-session. The space emptying. Elias and Leon lingering — the ritual of winding down. Establish Leon's mentorship and Elias's guardedness. Seed that Elias has a past he doesn't discuss, and Leon doesn't ask.",
+        "dialogue": "Leon says little. What he says lands. A comment about flow, about not forcing patterns. Elias responds with a half-joke that deflects. Leon lets the deflection stand. The unspoken rule: you show up, you train, you earn your place. No credentials. No clearances. No past.",
+        "internal": "Leon never asks where Elias came from. That's the rule. Elias likes the rule. He wonders sometimes if Leon has a rule like that for his own reasons — twenty years in Berlin and nobody knows what happened in those years between Marseille and here.",
+        "sensory": "Speaker off now. The building settling. Their voices in the empty space. Street noise filtering through a cracked window — tram, distant bass from a club, someone's bicycle bell."
+      }
+    },
+    {
+      "title": "Ch1 Scene 3 — The Walk Home",
+      "generator": "scene_medium",
+      "status": "not_started",
+      "slots": {
+        "scene_context": "POV: Elias.\nCast: Elias (alone). Background: Berlin at night.\nPacing: contemplative, edge of melancholy. The peace is real but fragile.\nIntegrate: surveillance as ambient weather — not dystopian, just present. Digital shadows.\n\nElias walks home through Berlin. Establish his daily life, his neighbourhood, his careful ordinariness. Seed the surveillance texture of the world. End on a note that this peace is something he built on top of something he buried.",
+        "setting": "Berlin streets at night. Sodium lights on wet pavement. A Turkish corner shop still open. Graffiti layered deep on every surface. The distant glow of a club. Security cameras on every third building — he notices them without meaning to.",
+        "character_action": "He walks a route he knows. Checks reflections in window glass — old habit, not conscious. Buys a coffee from the corner shop. Makes small talk in passable German. A normal man doing normal things.",
+        "internal": "Three years and he still checked reflections. Window glass, phone screens, the chrome on coffee machines. Looking for the face behind him that wasn't there yet. He used to think in systems. Now he thought in movements. Cleaner. Simpler. Nothing to betray you but your own muscles.",
+        "sensory": "Wet cobblestones underfoot. The hiss of a tram passing. Neon from a late-night kebab shop. Cold air on his face after the warm training space. His own breath visible.",
+        "transition": "He reached his building. Climbed the stairs. Didn't check his phone — hadn't in weeks. The phone sat on the kitchen counter, dark, patient, waiting for something he'd promised himself would never come."
+      }
+    }
+  ]
+}
