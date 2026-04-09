@@ -147,17 +147,60 @@ When generating import JSON from planning documents:
 - **Set generator based on expected output length** — `scene_short` for transitions, `scene_full` for key scenes
 
 ### For Narrative Projects
-- **scene_context** should summarise what the scene needs to accomplish and where it sits in the story
+
+**`scene_context` is the director's slate.** It carries everything the scene needs to know beyond the content slots. Structure it as a brief block of directives followed by the scene description:
+
+```
+POV: Elias, tight third.
+Cast: Secretary of the Treasury, NSA Crypto Lead, Elias.
+Pacing: slow burn, institutional dread building.
+Integrate: proof-of-work as physical labour metaphor.
+
+Night shift at the DataVault. Elias monitoring routine traffic when anomalous packets appear.
+```
+
+The directive lines are:
+- **POV** — whose head we're in, narrative distance (tight third, omniscient, etc.)
+- **Cast** — who appears in the scene. The generator needs to know who's in the room.
+- **Pacing** — rhythm and intensity ("rapid, kinetic", "slow burn", "quiet aftermath")
+- **Integrate** — concept or thematic threads to weave in. Brief cue, not an essay. ("decentralisation as power shift", "Kafka-esque institutional absurdity")
+
+These are optional — only include what the source material specifies. A simple scene might just have the description with no directive lines.
+
+**Other narrative slots:**
 - **tension** should identify the specific dramatic question or conflict driving the scene
 - **internal** captures what characters think/feel but don't say — subtext is gold here
 - **setting** and **sensory** are distinct: setting is the environment, sensory is specific moments of physical experience
 - **transition** is optional — only include if the source material specifies how the scene ends or bridges
 
 ### For Common Context
-- Include character descriptions (appearance, voice, mannerisms)
-- Include world rules and setting parameters
-- Include tone/style guidelines (POV, tense, prose style)
-- Keep it factual and reference-like — this is a style bible, not prose
+
+Common context is the **project DNA** — the handful of rules that apply to every scene. Keep it tight and factual. This is a style bible, not an encyclopedia.
+
+**What belongs in common_context (~15-20 lines max):**
+- **Protagonist** (3-4 lines) — name, role, key traits, voice. Just enough to anchor every scene.
+- **World** (3-4 lines) — setting, era, atmosphere rules. The physical and social reality.
+- **Tone** (2-3 lines) — POV default, tense, prose style, comparable voice.
+- **Core constraint** (1-2 lines) — the non-negotiable creative rule. e.g. "never stop plot to explain", "embed ideas in action not exposition".
+
+**What does NOT belong in common_context:**
+- Full character profiles for supporting cast — too heavy. Reference these from your planning docs when populating individual scene slots.
+- The complete philosophical framework — dilutes the signal. Put a one-line thematic cue in `scene_context` per scene instead.
+- Thematic threading maps (which themes appear in which chapters) — organisational metadata, not generative context.
+- Pacing graphs and act structure — planning tools, not composition inputs.
+- Educational integration plans — use brief `Integrate:` cues in `scene_context` per scene.
+
+**The test:** if removing a line from common_context wouldn't noticeably change how a scene gets written, it doesn't belong there. Every line should pull its weight.
+
+### For Music Projects
+- **common_context** holds the sonic palette: instruments, BPM range, reference artists, production constraints
+- Keep it to the shared identity — what makes all tracks sound like they belong on the same album
+- Per-track variation goes in the prompt slots, not common_context
+
+### For Image Projects
+- **common_context** holds the visual style bible: art style, colour palette, consistent character/world rules
+- Useful for series work (comics, campaigns) where visual consistency matters across panels
+- Per-panel specifics (composition, action, framing) go in prompt slots
 
 ---
 
@@ -168,25 +211,27 @@ When generating import JSON from planning documents:
   "title": "Cybersting — Chapter 1",
   "schema_type": "narrative",
   "description": "Opening chapter: Jess discovers the breach",
-  "common_context": "Protagonist: Jess Nakamura, 28, data security analyst at Meridian DataVault. Lean build, dark bob cut, augmented left eye (silver iris). Speaks in clipped sentences, dry humour under pressure.\n\nWorld: London 2035. Corporate server farms are physical fortresses. Street level is analogue.\n\nTone: Tight third person, present tense. Noir sensibility — observation over exposition.",
+  "common_context": "Protagonist: Elias, early 30s, cryptographer turned reluctant activist. Precise, guarded, dry wit under pressure. Thinks in systems.\n\nWorld: Near-future. Nation-states racing to control digital currency infrastructure. Corporate server farms are physical fortresses. Surveillance is ambient.\n\nTone: Tight third person, present tense. Noir sensibility — observation over exposition. Short paragraphs, sensory detail.\n\nCore rule: Never stop plot to explain. Embed ideas in action, dialogue, and subtext.",
   "prompts": [
     {
-      "title": "Ch1 Scene 1 — The Breach",
+      "title": "Ch1 Scene 1 — The Keys Don't Work",
       "generator": "scene_full",
       "status": "not_started",
       "slots": {
-        "scene_context": "Night shift at Meridian DataVault. Jess monitoring routine traffic when anomalous packets appear.",
-        "setting": "Server room floor 3, blue LED glow, humming racks, cold recycled air",
-        "tension": "The packets match a pattern she saw once before — the night her mentor disappeared"
+        "scene_context": "POV: Elias, tight third.\nCast: Secretary of the Treasury, NSA Crypto Lead, Elias, technicians.\nPacing: slow burn, institutional dread.\nIntegrate: cryptographic key ceremony as ritual of control.\n\nSubterranean SCIF beneath the Treasury. Scheduled key rotation ceremony fails. The HSMs reject every key.",
+        "setting": "Subterranean SCIF, blue-white LED strips, humming HSM racks, cold recycled air, no windows, concrete walls",
+        "tension": "The nation's digital reserves are locked behind keys that no longer work. Nobody in the room understands why.",
+        "dialogue": "\"Who authorised the last rotation?\" Silence. \"Who do you think?\""
       }
     },
     {
-      "title": "Ch1 Scene 2 — The Decision",
-      "generator": "scene_full",
+      "title": "Ch1 Scene 2 — The Corridor",
+      "generator": "scene_medium",
       "status": "not_started",
       "slots": {
-        "scene_context": "Jess decides whether to report the anomaly or investigate alone",
-        "internal": "She knows reporting means the data gets buried. She's seen it happen."
+        "scene_context": "POV: Elias.\nPacing: quiet, reflective.\n\nElias leaves the SCIF. Walking the corridor alone, processing what just happened.",
+        "internal": "He recognised the failure pattern. He designed it. Three years ago, different context, different employer. The question is who found it.",
+        "sensory": "His shoes on polished concrete. The hum of air handling. A security camera tracks him with a soft servo whir."
       }
     }
   ]
