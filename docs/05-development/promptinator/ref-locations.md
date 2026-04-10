@@ -17,8 +17,8 @@ Concise location data for prose-agent scene/sensory slot population. Each entry:
 
 ### Elias's Training Space — Berlin
 - **Function**: Crew home base. Where Elias is himself. Opening scenes.
-- **Sensory palette**: Concrete floor chalked with landing marks. High ceilings lost in shadow. Graffiti on exposed brick — layers of tags, none cleaned. Portable speakers buzzing bass. Yellow work lights on tripod stands. Chalk dust catching the light. Sweat on skin cooling fast — warm inside, winter outside.
-- **Scene notes**: Intimate, physical, grounded. Contrasts with every institutional space later. Sound of bodies landing, breath, shoes on concrete.
+- **Sensory palette**: Light-industrial unit. Concrete floor worn smooth in distinct landing zones from years of practice (evidence compressed into the floor). Marked zone taped for the cipher. High ceilings — seven metres — lost in shadow past the reach of yellow work lights on tripod stands (Dominik's arrangement). Exposed brick buried under graffiti layered geological, oldest tags bled into the mortar. Portable speaker at the edge pushing bass. Water bottles scattered everywhere. Layers of clothing stacked against walls. Sweat on skin cooling fast — warm inside from bodies, winter outside.
+- **Scene notes**: Intimate, physical, grounded. Contrasts with every institutional space later. Sound of bodies landing, breath, shoes on concrete. **NO chalk dust** — breakers don't chalk (palms need to slide). See `ref-culture-breaking.md` for subcultural rules and greeting hierarchy.
 
 ### Elias's Apartment — Berlin
 - **Function**: Private space. Where the call comes. Domestic tension.
