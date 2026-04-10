@@ -201,7 +201,37 @@ This is the tension the story resolves.
 |--------|-------------|
 | Build | Lean, functional — years of breaking/parkour have rebuilt him physically |
 | Movement | Fluid, precise — the economy of someone who knows their body |
-| Markers of past | TBD — any visible scars? Signs of stress? Early grey? |
+| Markers of past | Frozen shoulder (see below). Otherwise unremarkable — deliberately so. |
+
+### The Frozen Shoulder — A Body That Broke
+
+During the worst of the catastrophic mistake period, Elias went to bed one night and woke up unable to lift his arm past his collarbone. Adhesive capsulitis. The body refused to carry what he was being asked to carry.
+
+**The misdiagnosis sequence:**
+- Three physios, two scans, one referral to a rheumatologist
+- "Posture. Too much screen time. Stress. Try these exercises."
+- A year of failed physiotherapy
+- Nothing changed until Berlin
+
+**The recovery:**
+- Breaking and parkour as accidental therapy — range of motion, joint mobilisation, stretching under load. These are, in fact, the actual physiotherapy protocols for adhesive capsulitis. He didn't know this when he started. He knows it now.
+- ~90% range of motion recovered
+- The remaining 10% is hostage to his stress level
+
+**The body tell:**
+- Stress-responsive flare — shoulder tightens when he's under pressure, loosens in flow state
+- He rolls the shoulder unconsciously when the pattern-sight is loud
+- Avoids certain moves (deep freezes, air-flares that load the joint)
+- Half-beat hesitation in commitment landings — his body protecting the joint without his mind asking
+- Running body barometer the reader can track across the entire book: shoulder loose = peace; shoulder tight = threat
+
+**The mythic subtext (never explicit):**
+- The shoulder is the joint of burden-bearing. Atlas held the world on his shoulders.
+- Elias built the **Prometheus System** — the Titan who gave humanity fire and was punished for it
+- Two Titans, two burdens, two collapses
+- **Rule:** never name the reference in prose. Never have Elias or the narrator acknowledge the myth. The imagery carries the weight implicitly.
+
+**Earned line:** *"The body was a system he'd learnt to trust."* The word "learnt" presupposes the prior state of not-trusting — the year his body refused him. The reader feels the journey inside one word.
 
 ### Presence
 
@@ -210,11 +240,13 @@ This is the tension the story resolves.
 - Quiet, watchful — the paranoia has been channeled into awareness
 - Doesn't fidget — economy of motion
 - When stressed, goes very still (holds over from old self)
+- Rolls the shoulder unconsciously when something's wrong
 
 **Under pressure** (when the past returns):
 - Old habits resurface: counting backward, self-commands
 - The analytical scaffolding reasserts itself
 - Body and mind in tension — the breaker vs. the cryptographer
+- Shoulder tightens first, before the mind catches up
 
 ### Breaking/Parkour Integration
 

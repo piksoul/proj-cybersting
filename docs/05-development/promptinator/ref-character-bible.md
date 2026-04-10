@@ -39,6 +39,13 @@ description: Compressed character reference for Promptinator scene generation
   - Pre-burnout: analytical scaffolding, counting backward. Post-burnout: thinks in movements not systems
 - **Want → Need:** To be left alone → to understand → to stop the catastrophe. Needs to stop running and act.
 - **Wound:** Kompromat → catastrophic mistake that got people hurt → retreat to Berlin **[L]**
+- **Physical tell — frozen shoulder [L]:**
+  - Adhesive capsulitis, onset during the catastrophic mistake period. The body refused to carry what he was being asked to carry.
+  - Misdiagnosed: three physios, two scans, one rheumatologist — "posture, too much screen time, stress, try these exercises." Year of failed physio.
+  - Berlin breaking as accidental cure. ~90% range of motion recovered.
+  - **Stress-responsive flare for the remaining 10%**: tightens when he's under pressure, loosens in flow state. Running body barometer the reader can track across the book.
+  - He rolls the shoulder unconsciously. Avoids certain moves. Half-beat hesitation in commitment landings.
+  - **Never explicitly linked to Atlas/Prometheus mythology** — subtext only. The imagery does the work.
 - **Arc:** Observer → participant. Analytical → human. Running → choosing **[L]**
 - **Key relationships:**
   - Leon (mentor, movement teacher)
@@ -50,10 +57,11 @@ description: Compressed character reference for Promptinator scene generation
 - **Scene notes:**
   - POV: third limited, past tense, close distance **[L]**
   - Internal monologue is analytical not lyrical
-  - Under stress: gets quieter, not louder
+  - Under stress: gets quieter, not louder. Shoulder tightens.
   - Dry humour surfaces in worst moments
   - Checks reflections — old habit from field work
-  - Flow state (breaking/parkour) quiets the pattern-sight
+  - Flow state (breaking/parkour) quiets the pattern-sight *and* the shoulder simultaneously
+  - Trust in the body is **learnt**, not natural — *"the body was a system he'd learnt to trust"*
 
 ---
 
@@ -143,6 +151,48 @@ description: Compressed character reference for Promptinator scene generation
 - Teaching: Precision — "thinking slows you down"
 - Fate: Reliable — NO betrayal **[L]**
 - **Scene notes:** Friendly but not friend. Never write him doing anything for free.
+
+---
+
+## CREW EXTRAS — Berlin Training Space **[U]**
+
+> Atmospheric characters. Not plot-critical but available for texture. Use sparingly — one or two beats each per scene, maximum. Named so they can recur.
+
+### The New Guy — Enthusiastic Outsider **[U]**
+
+- **Name:** TBD (something slightly grating — try "Felix" or similar)
+- Recent arrival, no subtlety filter, wants into every conversation
+- Terrible at the actual dancing. Enthusiastic about everyone else's moves
+- **Function:** Comic ambient irritant. Mirror to Elias's reticence. Shows crew social dynamics through how others manage him
+- **Physical tic:** Wipes his face too often / talks with his hands too much (pick one, keep consistent)
+- **Scene notes:** Can say something in passing that trips Elias's pattern-sight. New Guys are dangerous precisely because they don't know what's sensitive. Low maintenance — a line or two per scene, no more.
+
+### Papa / The Old Guy — Crew Elder **[U]**
+
+- **Name:** Crew calls him "Papa" (Berlin-warm nickname, affectionate). Real name buried years ago.
+- Long past caring what others think. Past performing toughness or introversion.
+- **The handshake ritual** — his signature practice:
+  - Arrives and greets every person present, every session, without exception
+  - **Greeting hierarchy (breaker culture):** nod (minimum) → fist bump (casual) → full dap with finger-flick follow-through (full welcome)
+  - Papa does the full dap for everyone, including blow-ins and strangers. It's not warmth — it's discipline.
+  - **With Elias specifically:** a hand on the shoulder. Not the full ritual. Never explained. The Old Guy knows something, or intuits something. Subtle, never commented on by narrator or Elias.
+- **Function:** Embodied counter-argument to isolation-as-sovereignty. Walking thematic vessel.
+- **Can voice thematic material** others can't, because nobody fully listens to old guys:
+  - *"You think walking alone is freedom. I walked alone for twenty years. Alone is just a long way to nowhere. A handshake is a signature — every one I give is me saying I'm here."*
+  - The signature-as-cryptographic-primitive metaphor is available for climax callback (he doesn't know he's saying something about Bitcoin; the reader catches it later)
+- **Scene notes:** One or two lines per scene maximum. His power is in his inevitability, not his screen time. Present at every session. Always greets everyone. The shoulder touch for Elias is special — reader should sense it means something without being told what.
+
+### The Wider Crew — Ambient International **[U]**
+
+The Berlin scene is genuinely international. Available background specifics for populating scenes without inventing plot-relevant characters:
+
+- A pair of breakers from Bhutan (brothers or cousins, serious competitors, quiet)
+- A traveler from Glasgow (passing through for a month, blow-in from the UK circuit)
+- A Lisbon-based crew member who comes up for summer sessions
+- A tall Polish dancer who only does top-rock, never goes down
+- A Japanese exchange student working on her power moves with unnerving precision
+
+**Use as:** visual population, authentic multiculturalism, "the scene is bigger than the crew." Name them only if they become relevant. Otherwise: descriptors, nationalities, one distinguishing detail each.
 
 ---
 
