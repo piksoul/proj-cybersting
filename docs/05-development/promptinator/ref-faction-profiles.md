@@ -121,7 +121,7 @@ Breakers, parkour community, art movements, counter-culture. What Elias has rebu
 
 **On-screen:** The crew (Leon, Katya, Dominik), training spaces, Berlin nightlife.
 
-**Scene texture:** Industrial spaces, graffiti, beats, chalk dust, warm community, cold city.
+**Scene texture:** Industrial spaces, graffiti layered geological, bass through the floor, warm community, cold city. (No chalk — breakers don't chalk up; see `ref-culture-breaking.md`.)
 
 ---
 

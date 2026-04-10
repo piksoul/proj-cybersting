@@ -102,7 +102,7 @@ Quick-reference for setting and sensory slot population.
 | Environment | Sensory Palette |
 |---|---|
 | **Institutional** | Concrete, fluorescent hum, cold recycled air, server whine, badge readers, no windows |
-| **Berlin underground** | Industrial spaces, graffiti, chalk dust, portable speakers, warm bodies, cold outside |
+| **Berlin underground** | Industrial spaces, graffiti layered geological, portable speakers with funk breaks, warm bodies, cold outside, worn landing zones in the concrete (NO chalk — breakers don't use it; see `ref-culture-breaking.md`) |
 | **Surveillance** | Cameras on every third building, servo whirs, digital shadows, ambient sensors |
 | **Darknet** | Minimal UIs, encrypted messaging, eerie quietness, terminal green, cursor blink |
 | **Financial** | Ticker screens, algorithmic chaos, flash crash sensory overload, open-floor tension |
