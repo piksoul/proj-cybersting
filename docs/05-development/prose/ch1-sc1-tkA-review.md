@@ -1,4 +1,4 @@
-  This is genuinely strong prose. Here's my read:
+This is genuinely strong prose. Here's my read:
 
 What worked
 Voice is locked in. The prose hits the "technical precision, controlled emotion, walls as architecture" mantra almost perfectly:
